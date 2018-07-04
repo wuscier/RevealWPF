@@ -1,0 +1,15 @@
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\bin\Debug\UnleashedWPF.Layout.exe.config
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\bin\Debug\UnleashedWPF.Layout.exe
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\bin\Debug\UnleashedWPF.Layout.pdb
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.csprojAssemblyReference.cache
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\MainWindow.g.cs
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\App.g.cs
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout_MarkupCompile.cache
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout_MarkupCompile.lref
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\MainWindow.baml
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.g.resources
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.Properties.Resources.resources
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.csproj.GenerateResource.cache
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.csproj.CoreCompileInputs.cache
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.exe
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.pdb
