@@ -11,12 +11,9 @@
             <ColumnDefinition Width="200"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <ListBox Margin="10">
+        <ListBox Style="{DynamicResource ListBoxStyle1}">
             <ListBox.Resources>
                 <Style TargetType="Button">
-                    <!--<Setter Property="Margin" Value="5"></Setter>
-                    <Setter Property="Padding" Value="10"></Setter>
-                    <Setter Property="HorizontalAlignment" Value="Stretch"></Setter>-->
                 </Style>
             </ListBox.Resources>
 
@@ -44,5 +41,22 @@
             <Button Content="Button"/>
         </ListBox>
 
+        <StackPanel Orientation="Horizontal" Grid.Column="1">
+            <Button FontSize="22" Background="Purple" Foreground="White" Height="50" Width="50" RenderTransformOrigin=".5,.5">
+                <Button.RenderTransform>
+                    <RotateTransform Angle="10"/>
+                </Button.RenderTransform> 1
+            </Button>
+            <Button FontSize="22" Background="Purple" Foreground="White" Height="50" Width="50" RenderTransformOrigin=".5,.5">
+                <Button.RenderTransform>
+                    <RotateTransform Angle="10"/>
+                </Button.RenderTransform> 2
+            </Button>
+            <Button FontSize="22" Background="Purple" Foreground="White" Height="50" Width="50" RenderTransformOrigin=".5,.5">
+                <Button.RenderTransform>
+                    <RotateTransform Angle="10"/>
+                </Button.RenderTransform> 3
+            </Button>
+        </StackPanel>
     </Grid>
 </Window>

@@ -13,3 +13,7 @@ C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.cspr
 C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.csproj.CoreCompileInputs.cache
 C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.exe
 C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\UnleashedWPF.Layout.pdb
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\App.baml
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\Dictionary1.baml
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\StylesDemo.g.cs
+C:\workspace\UnleashedWPF\UnleashedWPF.Layout\obj\Debug\StylesDemo.baml
